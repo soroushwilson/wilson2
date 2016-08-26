@@ -1,4 +1,4 @@
-# [Sphero](https://telegram.me/Sphero) *And Professionall* [Helper](http://telegram.me/Spherorobot)
+ *And Professionall* [Helper]
 
 _Open Source For all_
 
@@ -12,9 +12,9 @@ _Based on Yagop _
 
 * sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-* git clone https://github.com/3pehrdev/Sphero
+* git clone https://github.com/soroushwilson/wilson2
 
-* cd Sphero
+* cd wilson2
 
 * ./launch.sh install
 
