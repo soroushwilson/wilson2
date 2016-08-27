@@ -24,16 +24,8 @@ _Based on Yagop _
 And check *bot/seedbot.lua : line 229* and putt your ID
 * Good Source Is ready for you :)
 
-# [My Team](http://telegram.me/Spheroch)
-*Admin or me :* [MrBlackLife](http://telegram.me/mrblacklife)
-*Mobin BlackLife
-*Solid BlackLife
-*Poorya BlackLife
-*parham BlackLife
+# [My Team]
+*Admin or me :soroush
 _And more . . ._
-
-*Please Don't Remove My Name  From Source and do not Change About Pattern and About Text :(*
-# [Click Here To join Sphero Channel](http://telegram.me/Spheroch)
-*Dev by [MrBlackLife](http://telegram.me/mrblacklife)*
 
 # *Good Luck* 
